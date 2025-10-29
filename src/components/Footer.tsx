@@ -19,6 +19,7 @@ const Footer = () => {
               </p>
             </div>
 
+          
             {/* Contact Info */}
             <div className="text-center">
               <h4 className="text-lg font-bold text-foreground mb-4">
@@ -69,7 +70,7 @@ const Footer = () => {
           </div>
 
           {/* Hashtags */}
-          <div className="text-center mb-8">
+          {/* <div className="text-center mb-8">
             <p className="text-sm text-foreground/60 flex flex-wrap justify-center gap-2">
               <span>#هاى_كير</span>
               <span>#تمريض_منزلى</span>
@@ -79,7 +80,7 @@ const Footer = () => {
               <span>#زيارات_منزلية</span>
               <span>#ذوى_الاحتياجات_الخاصة</span>
             </p>
-          </div>
+          </div> */}
 
           {/* Copyright */}
           <div className="border-t border-border pt-8 text-center">
